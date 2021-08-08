@@ -8,7 +8,7 @@
   <a href='https://www.facebook.com/profile.php?id=100069959961730'> <img width='40px' height='40px' alt='tw' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg'> </a>
   <a href='https://www.reddit.com/u/skndash96'> <img width='40px' height='40px' alt='tw' src='https://www.redditinc.com/assets/images/site/reddit-logo.png'> </a>
 
-#### Known Languages
+#### Known Languages and Tools
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript&ved=2ahUKEwjTjdKxw6DyAhWmxjgGHc9VAzUQFnoECAYQAg&usg=AOvVaw1Il_CfTbNi4CXc-0nBN5rP'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' width='40px' height='40px'> </a>
 <a href='https://nodejs.org'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='node' width='40px' height='40px'> </a>
 <a href='https://expressjs.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='express' width='40px' height='40px'> </a>
