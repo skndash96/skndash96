@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### Known Languages
+![ReactJS](https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react_logo.png)
 <!--
 **skndash96/skndash96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
