@@ -2,12 +2,12 @@
 
 #### Me
   I am a full stack developer, I'm currently engaged in 100daysofcode.
-Checkout my progress https://skndash.vercel.app/
+Checkout my progress [here](https://skndash-100days.vercel.app/)
 
 ### Social
   <a href='https://www.twitter.com/skndash96'> <img width='40px' height='40px' alt='tw' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg'> </a>
   <a href='https://www.facebook.com/profile.php?id=100069959961730'> <img width='40px' height='40px' alt='tw' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg'> </a>
-  <a href='https://www.reddit.com/u/skndash96'> <img width='40px' height='40px' alt='tw' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/reddit/reddit-original.svg'> </a>
+  <a href='https://www.reddit.com/u/skndash96'> <img width='40px' height='40px' alt='tw' src='https://toppng.com/uploads/preview/reddit-logo-reddit-icon-115628658968pe8utyxjt.png'> </a>
 
 #### Known Languages
 <a href='https://expressjs.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' alt='express' width='40px' height='40px'> </a>
