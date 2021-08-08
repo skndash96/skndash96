@@ -3,11 +3,11 @@
 #### Known Languages
 <a href='https://expressjs.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg' style='width:40px;height:40px;'> </a>
 <a href='https://tailwindcss.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg' style='width:40px;height:40px;'> </a>
-<a href='https://reactjs.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' style='width:40px;height:40px;'> </a>
-<a href='https://nodejs.org'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/node/node-original.svg' style='width:40px;height:40px;'> </a>
+<a href='https://reactjs.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/reactjs/reactjs-original.svg' style='width:40px;height:40px;'> </a>
+<a href='https://nodejs.org'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' style='width:40px;height:40px;'> </a>
 <a href='https://firebase.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg' style='width:40px;height:40px;'> </a>
 <a href='https://reduxjs.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg' style='width:40px;height:40px;'> </a>
-<a href='https://nextjs.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg' style='width:40px;height:40px;'> </a>
+<a href='https://nextjs.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' style='width:40px;height:40px;'> </a>
 
 <!--
 **skndash96/skndash96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
