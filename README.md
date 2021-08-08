@@ -3,11 +3,6 @@
 #### Me
   I am a full stack developer, currently learning back-end. Just start my 100daysofcode. Checkout my progress [here](https://skndash-100days.vercel.app/)
 
-### Reach me out
-  <a href='https://www.twitter.com/skndash96'> <img width='40px' height='40px' alt='tw' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg'> </a>
-  <a href='https://www.facebook.com/profile.php?id=100069959961730'> <img width='40px' height='40px' alt='tw' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg'> </a>
-  <a href='https://www.reddit.com/u/skndash96'> <img width='40px' height='40px' alt='tw' src='https://www.redditinc.com/assets/images/site/reddit-logo.png'> </a>
-
 #### Known Languages and Tools
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript&ved=2ahUKEwjTjdKxw6DyAhWmxjgGHc9VAzUQFnoECAYQAg&usg=AOvVaw1Il_CfTbNi4CXc-0nBN5rP'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' width='40px' height='40px'> </a>
 <a href='https://nodejs.org'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg' alt='node' width='40px' height='40px'> </a>
@@ -21,3 +16,8 @@
 <a href='https://github.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg' alt='git' width='40px' height='40px'> </a>
 <a href='https://firebase.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg' alt='firebase' width='40px' height='40px'> </a>
 <a href='https://mongodb.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg' alt='mongodb' width='40px' height='40px'> </a>
+
+#### Reach me out
+<a href='https://www.twitter.com/skndash96'> <img width='30px' height='30px' alt='tw' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg'> </a>
+<a href='https://www.facebook.com/profile.php?id=100069959961730'> <img width='30px' height='30px' alt='tw' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/facebook/facebook-original.svg'> </a>
+<a href='https://www.reddit.com/u/skndash96'> <img width='30px' height='30px' alt='tw' src='https://www.redditinc.com/assets/images/site/reddit-logo.png'> </a>
