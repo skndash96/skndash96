@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Me
-  I am a full stack developer, currently learning back-end. Just started my 100daysofcode. Checkout my progress [here](https://skndash-100days.vercel.app/)
+  Learning full stack development, currently learning back-end. Just started my 100daysofcode. Checkout my progress [here](https://skndash-100days.vercel.app/)
 
 #### Known Languages and Tools
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript&ved=2ahUKEwjTjdKxw6DyAhWmxjgGHc9VAzUQFnoECAYQAg&usg=AOvVaw1Il_CfTbNi4CXc-0nBN5rP'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' width='40px' height='40px'> </a>
@@ -10,6 +10,7 @@
 <a href='https://reactjs.org'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg' alt='react' width='40px' height='40px'> </a>
 <a href='https://redux.js.org'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg' alt='redux' width='40px' height='40px'> </a>
 <a href='https://nextjs.org'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg' alt='next' width='40px' height='40px'> </a>
+<a href='https://threejs.org'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original-wordmark.svg' alt='next' width='40px' height='40px'> </a>
 <a href='https://css3.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg' alt='css3' width='40px' height='40px'> </a>
 <a href='https://tailwindcss.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg' alt='tailwindcss' width='40px' height='40px'> </a>
 <a href='https://sass-land.com'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg' alt='sass' width='40px' height='40px'> </a>
