@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 #### Me
-  Learning full stack development, currently learning back-end. Just started my 100daysofcode. Checkout my progress [here](https://skndash-100days.vercel.app/)
+  Learning full stack development, currently learning back-end. Just doing all of them for the sake of passing time >.>
 
 #### Known Languages and Tools
 <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript&ved=2ahUKEwjTjdKxw6DyAhWmxjgGHc9VAzUQFnoECAYQAg&usg=AOvVaw1Il_CfTbNi4CXc-0nBN5rP'> <img src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg' alt='js' width='40px' height='40px'> </a>
