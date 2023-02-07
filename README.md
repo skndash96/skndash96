@@ -21,5 +21,5 @@ Check my portfolio @ [here](https://skndash.tk)
 
 #### Reach me out
 <a href='https://www.twitter.com/skndash96'> <img width='30px' height='30px' alt='tw' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg'> </a>
-<a href='https://www.reddit.com/u/skndash96'> <img width='30px' height='30px' alt='tw' src='https://www.redditinc.com/assets/images/site/reddit-logo.png'> </a>
+<a href='https://www.reddit.com/u/skndash_96'> <img width='30px' height='30px' alt='tw' src='https://www.redditinc.com/assets/images/site/reddit-logo.png'> </a>
 <a href="https://discord.gg/axxzbEHec6"> <img src="https://cdn.cdnlogo.com/logos/d/43/discord.svg" alt="discord" width="40" height="40"> </a>
