@@ -1,8 +1,10 @@
 ## Hi there :wave:
 Check my portfolio @ [here](https://skndash.tk)
 
-#### Me
-  Get to know me, cause I'm the next Elon. Learning full stack development, currently swimming in the rustacean community and also engaged with some frontend stuff. These days are cool :sunglasses:
+#### About Me
+  > What I cannot create, I do not understand — Richard Feynman.
+  
+  Get to know me, cause I'm the next Elon. Learning full stack development, currently surfing on the rustacean and also engaged with some frontend stuff. These days are cool :sunglasses:
 
 #### Known Languages and Tools
 <a href="https://rust-lang.org"><img src="https://rustacean.net/assets/rustacean-orig-noshadow.png" alt="rust-lang" width="40px" height="40px"></a>
