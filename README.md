@@ -4,7 +4,8 @@ Check my Webpage @ [here](https://skndash.tk) or [here](https://skndash96.vercel
 #### About Me
   > What I cannot create, I do not understand — Richard Feynman.
   
-  Learning full stack development and dsa side by side. Building App services and Solving the World's Problems. These days are cool :sunglasses:
+  Learning full stack development and dsa side by side. Building App services and Solving the World's Problems.
+  Turns out I hate design and ui/ux. So I'm transitioning to backend, apis, devops and cybersec. These days are cool :sunglasses:
 
 <br/>
 
