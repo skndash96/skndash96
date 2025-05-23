@@ -3,10 +3,11 @@ Check my Webpage @ [here](https://skndash.tk) or [here](https://skndash96.vercel
 
 #### About Me
   > What I cannot create, I do not understand — Richard Feynman.
+
+  Currently learning Linux, CTFs and leisurely building full-stack web/mobile apps that serve myself and people around me
   
   Learning full stack development and dsa side by side. Building App services and Solving the World's Problems.
   Turns out I hate design and ui/ux. So I'm transitioning to backend, apis, devops and cybersec. These days are cool :sunglasses:
-
 <br/>
 
 ## 🚀 Expert Level Tools
