@@ -7,7 +7,7 @@
   Check my Webpage [here](https://skndash96.vercel.app)
 <br/>
 
-## Gigs
+## Works
 - [Myalmamater](https://myalmamater.in) serving 3000+ users at NIT Trichy with various services such as food delivery, carpooling and more. 
 - [Class Tracker](https://github.com/skndash96/class-tracker) serving NIT Trichians with Self-Attendance tracking to help with the 75% Criteria.
 - [Teapal](https://github.com/skndash96/tea-pal) scraped JoSAA and CSAB records and made easy to access UI and API endpoints in Rust.
