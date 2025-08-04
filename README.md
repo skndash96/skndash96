@@ -9,7 +9,7 @@
 
 ## Works
 - [Myalmamater](https://myalmamater.in) serving 3000+ users at NIT Trichy with various services such as food delivery, carpooling and more. 
-- [Class Tracker](https://github.com/skndash96/class-tracker) serving NIT Trichians with Self-Attendance tracking to help with the 75% Criteria.
+- [Class Tracker](https://github.com/skndash96/class-rack) serving NIT Trichians with Self-Attendance tracking to help with the 75% Criteria.
 - [Teapal](https://github.com/skndash96/tea-pal) scraped JoSAA and CSAB records and made easy to access UI and API endpoints in Rust.
 - [JEENEETards](https://jeeneetards24.vercel.app/) scraped 1M+ questions off public content and prepared one-stop solution for practicing JEE/NEET/BITSAT questions.
 - [DispoDB](https://github.com/skndash96/dispo-db) developed handcricket discord bot which *was* used in 100+ servers and 500+ loyal users.
