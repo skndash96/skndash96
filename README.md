@@ -4,7 +4,7 @@
 
   > What I cannot create, I do not understand — Richard Feynman.
 
-  Check my Webpage [here](https://skndash96.vercel.app)
+  Check my Webpage at https://dashskndash.me or [here](https://skndash96.vercel.app)
 <br/>
 
 ## Works
