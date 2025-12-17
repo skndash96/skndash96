@@ -10,6 +10,7 @@
 ## Works
 - [Myalmamater](https://myalmamater.in) serving 3000+ users at NIT Trichy with various services such as food delivery, carpooling and more.
 - [Global E-com platform](https://bhanunaturalproducts.com) serving 1000s of users online, built using Medusa ECommerce.
+- [OceanMaster Game](https://delta.nitt.edu) Written in Golang, it handles incoming match requests from a RabbitMQ queue and starts nsjail sandboxes for safe and efficient simulation.
 - [NITT Orientation](https://nittorientation.in) built full-fledged event content management and attendance taking systems.
 - [Class Tracker](https://github.com/skndash96/class-rack) serving NIT Trichians with Self-Attendance tracking to help with the 75% Criteria.
 - [Teapal](https://github.com/skndash96/tea-pal) scraped JoSAA and CSAB records and made easy to access UI and API endpoints in Rust.
@@ -18,7 +19,7 @@
 - Developed various sites using PayloadCMS, Medusa JS (open-source shopify alternative) 
 
 ## 🚀 Expert Level Tools
-Expert&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Javascript and Node.js  
+Expert&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Typescript and Node.js  
 Beginner&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Python3, Golang, Rust
 <br/>
 - HTML, CSS, JS  
