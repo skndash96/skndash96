@@ -7,18 +7,22 @@
   Check my Webpage at https://dashskndash.me or [here](https://skndash96.vercel.app)
 <br/>
 
-## Works
-- [Seawars](https://delta.nitt.edu) Written in Golang, it handles incoming match requests from a RabbitMQ queue and starts nsjail sandboxes for safe and efficient simulation.
-- [InstaRoll](https://github.com/skndash96/ble-insta-roll) Automatic Roll-call with P2P Mesh (BLE extended advertising) witten with Expo and Kotlin/Swift modules.
-- [Pragyan CTF '26](https://delta.nitt.edu) Crafted Web challenges involving Proxy TCP stream drain miss, request smuggling, XSS etc. for 1000+ teams including world top 10 teams from ctftime.org website.
+## Consumer-facing Works
 - [Global E-com platform](https://bhanunaturalproducts.com) serving 1000s of users online, built using Medusa ECommerce.
 - [Myalmamater](https://myalmamater.in) serving 3000+ users at NIT Trichy with various services such as food delivery, carpooling and more.
 - [Teapal](https://github.com/skndash96/tea-pal) scraped JoSAA and CSAB records and made easy to access UI and API endpoints in Rust.
 - [JEENEETards](https://jeeneetards24.vercel.app/) scraped 1M+ questions off public content and prepared one-stop solution for practicing JEE/NEET/BITSAT questions.
 - [DispoDB](https://github.com/skndash96/dispo-db) developed handcricket discord bot which *was* used in 100+ servers and 500+ loyal users.
-- [Class Tracker](https://github.com/skndash96/class-rack) serving NIT Trichians with Self-Attendance tracking to help with the 75% Criteria.
 - [NITT Orientation](https://nittorientation.in) built full-fledged event content management and attendance taking systems.
-- Developed various sites using PayloadCMS, Medusa JS (open-source shopify alternative) 
+- Developed various sites using PayloadCMS, Medusa JS (open-source shopify alternative)
+- [Class Tracker](https://github.com/skndash96/class-rack) serving NIT Trichians with Self-Attendance tracking to help with the 75% Criteria.
+
+## Technical Works
+- [Seawars](https://delta.nitt.edu) Written in Golang, it handles incoming match requests from a RabbitMQ queue and starts nsjail sandboxes for safe and efficient simulation.
+- [Resume Vibing Setup](https://github.com/skndash96/resume-vibing-tool) setup for vibing job description tailored resume.
+- [InstaRoll](https://github.com/skndash96/ble-insta-roll) Automatic Roll-call with P2P Mesh (BLE extended advertising) witten with Expo and Kotlin/Swift modules.
+- [Pragyan CTF '26](https://delta.nitt.edu) Crafted Web challenges involving Proxy TCP stream drain miss, request smuggling, XSS etc. for 1000+ teams including world top 10 teams from ctftime.org website.
+- [AI System Caretaker](https://github.com/skndash96/system-caretaker) a voice-assistant daemon that monitors system health and suggests LIVE changes.
 
 ## 🚀 Expert Level Tools
 Expert&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Typescript and Node.js  
